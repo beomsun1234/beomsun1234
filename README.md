@@ -14,16 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ![header](https://capsule-render.vercel.app/api?type=Soft&color=auto&height=300&section=header&text=BeeomseonPark&fontSize=90)
 <br/>
 
-<p align="center"> <font size="+5"> Hi 👋,  I'm Park Beomseon</p>
+### <p align="center"> <font size="+5"> Hi 👋,  I'm Park Beomseon </p>
 <p align="center"><font size="+2">Interested in Back-End development</p>
 <br/>
 <br/>
 <br/>
 
-<p align="center"> <font size="+3"> 💻 Languages and tool  </p>
+### <p align="center"> 💻 Languages and tool  </p>
 
 
 <p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
