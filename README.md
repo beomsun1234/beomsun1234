@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Beeomseon Park&fontSize=90)
 
 <h1 align="center">Hi 👋, I'm Park Beomseon</h1>
 <h3 align="center">Interested in back-end development</h3> 
