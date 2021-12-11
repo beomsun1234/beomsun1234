@@ -44,5 +44,6 @@ Here are some ideas to get you started:
                    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp 
                    <img src="https://img.shields.io/badge/Docker compose-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
                    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
-                   
+                   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
+                   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
 </p>
