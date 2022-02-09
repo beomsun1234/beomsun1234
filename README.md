@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beomsun22)](https://solved.ac/beomsun22/) 
+<p align="center"> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beomsun22)](https://solved.ac/beomsun22/) </p>
   
   
   
