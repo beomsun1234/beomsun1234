@@ -24,11 +24,6 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<p align="center">
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beomsun22)](https://solved.ac/beomsun22/) 
-</p>
-  
-  
   
 ### <p align="center"> 💻 Languages and tool  </p>
 
@@ -54,3 +49,5 @@ Here are some ideas to get you started:
                    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
                    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
 </p>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=beomsun22)](https://solved.ac/beomsun22/) 
