@@ -25,13 +25,14 @@ Here are some ideas to get you started:
 <br/>
 
   
-### <p align="center"> 💻 Languages and tool  </p>
+### <p align="center"> 💻 skills  </p>
 
 
-<p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
+<p align="center"> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp              
                    <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white"/></a>&nbsp
                    <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
                    <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
+                   <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/></a>&nbsp  
 </p>
 
 <p align="center"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp
@@ -48,6 +49,7 @@ Here are some ideas to get you started:
                    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
                    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
                    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
+                   <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=gcp&logoColor=white"/></a>&nbsp
 </p>
 
 
