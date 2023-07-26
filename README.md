@@ -49,7 +49,7 @@ Here are some ideas to get you started:
                    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp
                    <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></a>&nbsp
                    <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=Apache Kafka&logoColor=white"/></a>&nbsp
-                   <img src="https://img.shields.io/badge/Google Cloud-4285F4?style=flat-square&logo=gcp&logoColor=white"/></a>&nbsp
+                   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=Google%20Cloud&logoColor=white"/></a>&nbsp
 </p>
 
 
