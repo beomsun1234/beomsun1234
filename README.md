@@ -19,7 +19,6 @@ Here are some ideas to get you started:
 <br/>
 
 ### <p align="center"> <font size="+5"> Hi 👋,  I'm Park Beomseon </p>
-<p align="center"><font size="+2">Interested in Back-End development</p>
 <br/>
 <br/>
 <br/>
